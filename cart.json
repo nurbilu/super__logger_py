@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Bread",
+        "price": 2.5
+    },
+    {
+        "name": "Bread",
+        "price": 2.5
+    },
+    {
+        "name": "Milk",
+        "price": 1.5
+    },
+    {
+        "name": "Milk",
+        "price": 1.5
+    },
+    {
+        "name": "Eggs",
+        "price": 3.0
+    },
+    {
+        "name": "Eggs",
+        "price": 3.0
+    },
+    {
+        "name": "Apple",
+        "price": 0.5
+    },
+    {
+        "name": "Apple",
+        "price": 0.5
+    },
+    {
+        "name": "Banana",
+        "price": 0.7
+    },
+    {
+        "name": "Banana",
+        "price": 0.7
+    },
+    {
+        "name": "Banana",
+        "price": 0.7
+    }
+]

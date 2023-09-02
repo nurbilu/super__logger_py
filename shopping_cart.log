@@ -1,0 +1,66 @@
+2023-09-01 19:56:20,457 - INFO - User checked out
+2023-09-01 19:57:11,896 - INFO - Added Bread to the cart
+2023-09-01 19:57:12,327 - INFO - Added Milk to the cart
+2023-09-01 19:57:12,941 - INFO - Added Eggs to the cart
+2023-09-01 19:57:13,808 - INFO - Added Apple to the cart
+2023-09-01 19:57:14,261 - INFO - Added Apple to the cart
+2023-09-01 19:57:14,874 - INFO - Added Apple to the cart
+2023-09-01 19:57:15,362 - INFO - Added Banana to the cart
+2023-09-01 19:57:15,796 - INFO - Added Banana to the cart
+2023-09-01 19:57:17,115 - INFO - User checked out
+2023-09-01 19:57:19,766 - INFO - Saved cart to pickle file
+2023-09-01 19:57:19,767 - INFO - Saved cart to JSON file
+2023-09-01 19:57:19,770 - INFO - Saved cart to XML file
+2023-09-01 19:57:41,307 - INFO - User checked out
+2023-09-01 19:58:48,535 - INFO - Saved cart to pickle file
+2023-09-01 19:58:48,535 - INFO - Saved cart to JSON file
+2023-09-01 19:58:48,537 - INFO - Saved cart to XML file
+2023-09-01 20:01:01,058 - INFO - Added Bread to the cart
+2023-09-01 20:01:05,288 - INFO - Added Milk to the cart
+2023-09-01 20:01:06,020 - INFO - Added Eggs to the cart
+2023-09-01 20:01:07,001 - INFO - Added Apple to the cart
+2023-09-01 20:01:07,735 - INFO - Added Apple to the cart
+2023-09-01 20:01:08,439 - INFO - Added Banana to the cart
+2023-09-01 20:01:09,155 - INFO - Added Banana to the cart
+2023-09-01 20:01:09,810 - INFO - Added Banana to the cart
+2023-09-01 20:01:10,695 - INFO - User checked out
+2023-09-01 20:01:12,565 - INFO - Saved cart to pickle file
+2023-09-01 20:01:12,566 - INFO - Saved cart to JSON file
+2023-09-01 20:01:12,569 - INFO - Saved cart to XML file
+2023-09-01 20:01:24,426 - INFO - User checked out
+2023-09-02 17:09:08,835 - INFO - Added Bread to the cart
+2023-09-02 17:09:10,317 - INFO - Added Milk to the cart
+2023-09-02 17:09:11,859 - INFO - Added Eggs to the cart
+2023-09-02 17:09:13,321 - INFO - Added Apple to the cart
+2023-09-02 17:09:15,358 - INFO - Added Banana to the cart
+2023-09-02 17:09:16,232 - INFO - Added Banana to the cart
+2023-09-02 17:09:17,059 - INFO - Added Banana to the cart
+2023-09-02 17:09:18,186 - INFO - Added Banana to the cart
+2023-09-02 17:09:19,038 - INFO - Added Apple to the cart
+2023-09-02 17:09:19,710 - INFO - Added Apple to the cart
+2023-09-02 17:09:20,307 - INFO - Added Apple to the cart
+2023-09-02 17:09:20,832 - INFO - Added Apple to the cart
+2023-09-02 17:09:21,820 - INFO - User checked out
+2023-09-02 17:09:32,092 - INFO - Saved cart to pickle file
+2023-09-02 17:09:32,093 - INFO - Saved cart to JSON file
+2023-09-02 17:09:32,101 - INFO - Saved cart to XML file
+2023-09-02 17:15:10,723 - ERROR - Invalid input. Please enter a valid number.
+2023-09-02 17:15:17,295 - ERROR - Invalid choice. Please select a valid item or checkout.
+2023-09-02 17:15:20,162 - ERROR - Invalid choice. Please select a valid item or checkout.
+2023-09-02 17:15:22,291 - INFO - Added Bread to the cart
+2023-09-02 17:15:23,576 - INFO - Added Bread to the cart
+2023-09-02 17:15:24,146 - INFO - Added Milk to the cart
+2023-09-02 17:15:24,703 - INFO - Added Milk to the cart
+2023-09-02 17:15:25,236 - INFO - Added Eggs to the cart
+2023-09-02 17:15:25,731 - INFO - Added Eggs to the cart
+2023-09-02 17:15:26,305 - INFO - Added Apple to the cart
+2023-09-02 17:15:26,755 - INFO - Added Apple to the cart
+2023-09-02 17:15:27,973 - ERROR - Invalid input. Please enter a valid number.
+2023-09-02 17:15:29,532 - ERROR - Invalid input. Please enter a valid number.
+2023-09-02 17:15:31,543 - INFO - Added Banana to the cart
+2023-09-02 17:15:32,142 - INFO - Added Banana to the cart
+2023-09-02 17:15:32,629 - INFO - Added Banana to the cart
+2023-09-02 17:15:33,772 - INFO - User checked out
+2023-09-02 17:15:36,921 - INFO - Saved cart to pickle file
+2023-09-02 17:15:36,924 - INFO - Saved cart to JSON file
+2023-09-02 17:15:36,927 - INFO - Saved cart to XML file
